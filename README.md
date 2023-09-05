@@ -5,6 +5,7 @@ Tools, snippets, helpers and other utility packages by Frontend discipline and c
 Contributions are welcome!
 
 ![vfd-v3-transparent](https://user-images.githubusercontent.com/93318583/139236084-749639e8-c743-4c1b-9259-bfa26c251d00.png)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frlfagan%2Fvisma.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Frlfagan%2Fvisma?ref=badge_shield)
 
 ## Packages
 
@@ -113,3 +114,7 @@ Include a CHANGELOG.md file ([example](/packages/react-app-locale-utils/CHANGELO
 ## Help / Contact
 
 In any questions or suggestions, feel free to reach out to [@ArnoSaine](https://github.com/ArnoSaine).
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frlfagan%2Fvisma.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Frlfagan%2Fvisma?ref=badge_large)
